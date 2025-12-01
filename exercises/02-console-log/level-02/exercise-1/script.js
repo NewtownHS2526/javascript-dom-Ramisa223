@@ -1,2 +1,2 @@
-// TODO: Use console.log(), console.warn(), and console.error()
-
+console.log("Hello, World!");
+console.log("Welcome to JavaScript programming.");  

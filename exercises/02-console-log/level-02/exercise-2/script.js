@@ -1,2 +1,2 @@
-// TODO: Create variables and print a formatted message
-
+let name = " fang";
+console.log(name);
